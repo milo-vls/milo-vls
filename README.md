@@ -1,4 +1,4 @@
-Etudiant français et développpeur novice de jeux vidéos amateurs.
+Etudiant français et développeur novice de jeux vidéos amateurs.
 
 <!---
 milo-vls/milo-vls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
