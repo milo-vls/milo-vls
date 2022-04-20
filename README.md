@@ -1,4 +1,4 @@
-Bonjour, je suis Milo Vilas étudiant français et développpeur novice de jeux vidéos amateurs.
+Etudiant français et développpeur novice de jeux vidéos amateurs.
 
 <!---
 milo-vls/milo-vls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
